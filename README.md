@@ -1,5 +1,5 @@
 # More Portraits in Azure
-Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails to Azure**.
+Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of Trails to Azure**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: Coming soon!  
@@ -18,21 +18,22 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 
 ## List of added characters
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=t2iGFyWjqRI) of this mod are labeled as new.
-*   Wendy (completed files: 2/2)
-*   Chaco (2/2)
-*   Scott (14/14)
-*   Wenzel (11/11)
-*   Lynn (11/11)
-*   Aeolia (11/11)
-*   Pierre (2/2)
-*   Mireille (3/3)
-*   Sully (6/6)
-*   Abbas (6/6)
-*   Michel (3/3)
-*   [NEW!] Fernand (2/2)
-*   [NEW!] Franz (6/6)
-*   [NEW!] Oscar (3/3)
-*   [NEW!] Bennet (3/3)
+*   Wendy (completed files: 0/3)
+*   Chaco (0/2)
+*   Scott (0/10)
+*   Wenzel (0/8)
+*   Lynn (0/9)
+*   Aeolia (0/11)
+*   Pierre (0/8)
+*   Douglas (0/6)
+*   Seiland (0/6)
+*   Albert (0/6)
+*   Ines (0/1)
+*   Ennea (0/1)
+*   [NEW!] Fernand (0/3)
+*   [NEW!] Franz (0/6)
+*   [NEW!] Oscar (0/3)
+*   [NEW!] Bennet (0/2)
 
 ## Gameplay screenshots
 Coming soon!
