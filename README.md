@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: Coming soon!  
-Last updated: 2023-03-15  
+Last updated: 2023-03-18  
 Compatible with: Coming soon!  
   
 Watch the release trailer here: Coming soon!  
@@ -18,7 +18,7 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 
 ## List of added characters
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=t2iGFyWjqRI) of this mod are labeled as new.
-*   Wendy (completed files: 0/3)
+*   Wendy (completed files: 2/3)
 *   Chaco (0/2)
 *   Scott (0/10)
 *   Wenzel (0/8)
@@ -36,7 +36,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   [NEW!] Bennet (0/2)
 
 ## Gameplay screenshots
-Coming soon!
+### Wendy
+![gameplay_screenshot_wendy_01](/gameplay_screenshots/gameplay_screenshot_wendy_01.jpg)
 
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
