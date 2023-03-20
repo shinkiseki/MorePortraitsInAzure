@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: Coming soon!  
-Last updated: 2023-03-18  
+Last updated: 2023-03-20  
 Compatible with: Coming soon!  
   
 Watch the release trailer here: Coming soon!  
@@ -18,7 +18,7 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 
 ## List of added characters
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=t2iGFyWjqRI) of this mod are labeled as new.
-*   Wendy (completed files: 2/3)
+*   **Wendy (completed files: 3/3)**
 *   Chaco (0/2)
 *   Scott (0/10)
 *   Wenzel (0/8)
@@ -34,6 +34,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   [NEW!] Franz (0/6)
 *   [NEW!] Oscar (0/3)
 *   [NEW!] Bennet (0/2)
+*   Note: Duvalie was previously included as part of Akatsuki Portraits in Azure. However, she has portraits by default as part of the NISA release of Azure.
 
 ## Gameplay screenshots
 ### Wendy
@@ -68,4 +69,5 @@ Read here: Coming soon!
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
+*   2023-03-20: Files for Wendy completed.
 *   2023-03-15: Creation of repository.
