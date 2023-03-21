@@ -30,11 +30,11 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   Albert (0/6)
 *   Ines (0/1)
 *   Ennea (0/1)
-*   [NEW!] Fernand (0/3)
+*   **[NEW!] Fernand (3/3)**
 *   [NEW!] Franz (0/6)
 *   [NEW!] Oscar (0/3)
 *   [NEW!] Bennet (0/2)
-*   Note: Duvalie was previously included as part of Akatsuki Portraits in Azure. However, she has portraits by default as part of the NISA release of Azure.
+*   Note: Duvalie was previously included as part of Akatsuki Portraits in Azure. However, she has portraits by default as part of the NISA release of Azure. Because of this, the More Portraits in Azure mod does not include any changes to Duvalie.
 
 ## Gameplay screenshots
 ### Wendy
@@ -42,6 +42,9 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 
 ### Chaco
 ![gameplay_screenshot_chaco_01](/gameplay_screenshots/gameplay_screenshot_chaco_01.jpg)
+
+### Fernand
+![gameplay_screenshot_fernand_01](/gameplay_screenshots/gameplay_screenshot_fernand_01.jpg)
 
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
