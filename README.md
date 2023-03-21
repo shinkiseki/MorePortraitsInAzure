@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: Coming soon!  
-Last updated: 2023-03-20  
+Last updated: 2023-03-21  
 Compatible with: Coming soon!  
   
 Watch the release trailer here: Coming soon!  
@@ -19,7 +19,7 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 ## List of added characters
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=t2iGFyWjqRI) of this mod are labeled as new.
 *   **Wendy (completed files: 3/3)**
-*   Chaco (0/2)
+*   **Chaco (2/2)**
 *   Scott (0/10)
 *   Wenzel (0/8)
 *   Lynn (0/9)
@@ -39,6 +39,9 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ## Gameplay screenshots
 ### Wendy
 ![gameplay_screenshot_wendy_01](/gameplay_screenshots/gameplay_screenshot_wendy_01.jpg)
+
+### Chaco
+![gameplay_screenshot_chaco_01](/gameplay_screenshots/gameplay_screenshot_chaco_01.jpg)
 
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
@@ -69,5 +72,6 @@ Read here: Coming soon!
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
+*   2023-03-21: Files for Chaco completed.
 *   2023-03-20: Files for Wendy completed.
 *   2023-03-15: Creation of repository.
