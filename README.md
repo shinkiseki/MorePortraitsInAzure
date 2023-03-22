@@ -43,6 +43,18 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ### Chaco
 ![gameplay_screenshot_chaco_01](/gameplay_screenshots/gameplay_screenshot_chaco_01.jpg)
 
+### Scott
+![gameplay_screenshot_scott_01](/gameplay_screenshots/gameplay_screenshot_scott_01.jpg)
+
+### Wenzel
+![gameplay_screenshot_wenzel_01](/gameplay_screenshots/gameplay_screenshot_wenzel_01.jpg)
+
+### Lynn
+![gameplay_screenshot_lynn_01](/gameplay_screenshots/gameplay_screenshot_lynn_01.jpg)
+
+### Aeolia
+![gameplay_screenshot_aeolia_01](/gameplay_screenshots/gameplay_screenshot_aeolia_01.jpg)
+
 ### Fernand
 ![gameplay_screenshot_fernand_01](/gameplay_screenshots/gameplay_screenshot_fernand_01.jpg)
 
