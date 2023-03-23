@@ -20,10 +20,10 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=t2iGFyWjqRI) of this mod are labeled as new.
 *   **Wendy (completed files: 3/3)**
 *   **Chaco (2/2)**
-*   Scott (6/10)
-*   Wenzel (4/8)
-*   Lynn (3/9)
-*   Aeolia (3/11)
+*   Scott (9/10)
+*   Wenzel (7/8)
+*   Lynn (5/9)
+*   Aeolia (6/11)
 *   Pierre (0/8)
 *   Douglas (0/6)
 *   Seiland (0/6)
