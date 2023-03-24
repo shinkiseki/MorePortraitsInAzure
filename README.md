@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: Coming soon!  
-Last updated: 2023-03-22  
+Last updated: 2023-03-23  
 Compatible with: Coming soon!  
   
 Watch the release trailer here: Coming soon!  
@@ -20,16 +20,16 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=t2iGFyWjqRI) of this mod are labeled as new.
 *   **Wendy (completed files: 3/3)**
 *   **Chaco (2/2)**
-*   Scott (9/10)
-*   Wenzel (7/8)
-*   Lynn (5/9)
-*   Aeolia (6/11)
+*   **Scott (10/10)**
+*   **Wenzel (8/8)**
+*   **Lynn (9/9)**
+*   **Aeolia (11/11)**
 *   Pierre (0/8)
 *   Douglas (0/6)
 *   Seiland (0/6)
 *   Albert (0/6)
-*   Ines (0/2)
-*   Ennea (0/2)
+*   Ines (1/2)
+*   Ennea (1/2)
 *   **[NEW!] Fernand (3/3)**
 *   [NEW!] Franz (0/6)
 *   [NEW!] Oscar (0/3)
@@ -55,8 +55,35 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ### Aeolia
 ![gameplay_screenshot_aeolia_01](/gameplay_screenshots/gameplay_screenshot_aeolia_01.jpg)
 
+### Pierre
+![gameplay_screenshot_pierre_01](/gameplay_screenshots/gameplay_screenshot_pierre_01.jpg)
+
+### Douglas
+![gameplay_screenshot_douglas_01](/gameplay_screenshots/gameplay_screenshot_douglas_01.jpg)
+
+### Seiland
+![gameplay_screenshot_seiland_01](/gameplay_screenshots/gameplay_screenshot_seiland_01.jpg)
+
+### Albert
+![gameplay_screenshot_albert_01](/gameplay_screenshots/gameplay_screenshot_albert_01.jpg)
+
+### Ines
+![gameplay_screenshot_ines_01](/gameplay_screenshots/gameplay_screenshot_ines_01.jpg)
+
+### Ennea
+![gameplay_screenshot_ennea_01](/gameplay_screenshots/gameplay_screenshot_ennea_01.jpg)
+
 ### Fernand
 ![gameplay_screenshot_fernand_01](/gameplay_screenshots/gameplay_screenshot_fernand_01.jpg)
+
+### Franz
+![gameplay_screenshot_franz_01](/gameplay_screenshots/gameplay_screenshot_franz_01.jpg)
+
+### Oscar
+![gameplay_screenshot_oscar_01](/gameplay_screenshots/gameplay_screenshot_oscar_01.jpg)
+
+### Bennet
+![gameplay_screenshot_bennet_01](/gameplay_screenshots/gameplay_screenshot_bennet_01.jpg)
 
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
@@ -87,6 +114,7 @@ Read here: Coming soon!
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
+*   2023-03-23: Added additional portraits for a scene in the intermission.
 *   2023-03-22: Fixed issue with half-bust portraits being overlaid atop text boxes. Files for Fernand completed.
 *   2023-03-21: Files for Chaco completed.
 *   2023-03-20: Files for Wendy completed.
