@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: Coming soon!  
-Last updated: 2023-03-23  
+Last updated: 2023-03-24  
 Compatible with: Coming soon!  
   
 Watch the release trailer here: Coming soon!  
@@ -114,6 +114,7 @@ Read here: Coming soon!
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
+*   2023-03-24: Files for bracers Scott, Wenzel, Lynn, and Aeolia completed.
 *   2023-03-23: Added additional portraits for a scene in the intermission.
 *   2023-03-22: Fixed issue with half-bust portraits being overlaid atop text boxes. Files for Fernand completed.
 *   2023-03-21: Files for Chaco completed.
