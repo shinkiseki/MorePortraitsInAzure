@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v0.1.0 (released 2023-03-24)  
-Last updated: 2023-03-24  
+Last updated: 2023-03-25  
 Compatible with: Trails to Azure v1.1.10  
   
 Watch the release trailer here: Coming soon!  
@@ -28,8 +28,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   Douglas (0/6)
 *   Seiland (0/6)
 *   Albert (0/6)
-*   Ines (1/2)
-*   Ennea (1/2)
+*   **Ines (2/2)**
+*   **Ennea (2/2)**
 *   **[NEW!] Fernand (3/3)**
 *   [NEW!] Franz (0/6)
 *   [NEW!] Oscar (0/3)
@@ -114,6 +114,7 @@ Read here: Coming soon!
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
+*   2023-03-25: Files for Ines and Ennea completed.
 *   2023-03-24: Released v0.1.0. Files for bracers Scott, Wenzel, Lynn, and Aeolia completed.
 *   2023-03-23: Added additional portraits for a scene in the intermission.
 *   2023-03-22: Fixed issue with half-bust portraits being overlaid atop text boxes. Files for Fernand completed.
