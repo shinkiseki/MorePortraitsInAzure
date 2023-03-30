@@ -3,8 +3,8 @@ Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v0.2.0 (released 2023-03-27)  
-Last updated: 2023-03-27  
-Compatible with: Trails to Azure v1.1.10  
+Last updated: 2023-03-30  
+Compatible with: Trails to Azure v1.1.11  
   
 Watch the release trailer here: Coming soon!  
 Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortraitsInZero
@@ -27,7 +27,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   Pierre (0/8)
 *   Douglas (0/6)
 *   Seiland (0/6)
-*   Albert (0/6)
+*   Albert (5/6)
 *   **Ines (2/2)**
 *   **Ennea (2/2)**
 *   **[NEW!] Fernand (3/3)**
