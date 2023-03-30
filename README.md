@@ -4,14 +4,14 @@ Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v0.2.0 (released 2023-03-27)  
 Last updated: 2023-03-30  
-Compatible with: Trails to Azure v1.1.11  
+Compatible with: Trails to Azure v1.1.11 (Steam or GOG)  
   
 Watch the release trailer here: Coming soon!  
 Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortraitsInZero
 
 ## Installation instructions
 1.  Download the latest release of More Portraits in Azure. This should include, among other files, a data folder.
-2.  Identify the folder where the Steam edition of Trails to Azure lives. Within this folder, there should be, among other files, the game itself (ao.exe) and a data folder. This is the __root folder__ of the game.
+2.  Identify the folder where the Steam (or GOG) edition of Trails to Azure lives. Within this folder, there should be, among other files, the game itself (ao.exe) and a data folder. This is the __root folder__ of the game.
 3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.
 4.  The mod has now been installed! New portraits will now be shown in-game.
 5.  To uninstall the mod, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
@@ -114,6 +114,7 @@ Read here: Coming soon!
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
+*   2023-03-30: Updated README to acknowledge compatibility with GOG version.
 *   2023-03-27: Released v0.2.0. Files for Oscar and Bennet completed. Missing file for bracers Scott and Wenzel (t2510 - Tangram Gate) added.
 *   2023-03-25: Files for Ines and Ennea completed.
 *   2023-03-24: Released v0.1.0. Files for bracers Scott, Wenzel, Lynn, and Aeolia completed.
