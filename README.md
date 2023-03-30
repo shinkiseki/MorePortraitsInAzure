@@ -27,7 +27,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   Pierre (0/8)
 *   Douglas (0/6)
 *   Seiland (0/6)
-*   Albert (5/6)
+*   **Albert (6/6)**
 *   **Ines (2/2)**
 *   **Ennea (2/2)**
 *   **[NEW!] Fernand (3/3)**
@@ -66,6 +66,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 
 ### Albert
 ![gameplay_screenshot_albert_01](/gameplay_screenshots/gameplay_screenshot_albert_01.jpg)
+![gameplay_screenshot_albert_02](/gameplay_screenshots/gameplay_screenshot_albert_02.jpg)
 
 ### Ines
 ![gameplay_screenshot_ines_01](/gameplay_screenshots/gameplay_screenshot_ines_01.jpg)
