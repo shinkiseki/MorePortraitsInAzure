@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v0.2.0 (released 2023-03-27)  
-Last updated: 2023-03-30  
+Last updated: 2023-04-01  
 Compatible with: Trails to Azure v1.1.11 (Steam or GOG)  
   
 Watch the release trailer here: Coming soon!  
@@ -31,7 +31,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **Ines (2/2)**
 *   **Ennea (2/2)**
 *   **[NEW!] Fernand (3/3)**
-*   [NEW!] Franz (0/6)
+*   **[NEW!] Franz (6/6)**
 *   **[NEW!] Oscar (3/3)**
 *   **[NEW!] Bennet (2/2)**
 *   Note: Duvalie was previously included as part of Akatsuki Portraits in Azure. However, she has portraits by default as part of the NISA release of Azure. Because of this, the More Portraits in Azure mod does not include any changes to Duvalie.
@@ -115,6 +115,8 @@ Read here: Coming soon!
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
+*   2023-04-01: Files for Franz completed.
+*   2023-03-31: Files for Albert completed.
 *   2023-03-30: Updated README to acknowledge compatibility with GOG version.
 *   2023-03-27: Released v0.2.0. Files for Oscar and Bennet completed. Missing file for bracers Scott and Wenzel (t2510 - Tangram Gate) added.
 *   2023-03-25: Files for Ines and Ennea completed.
