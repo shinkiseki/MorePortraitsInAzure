@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of Trails to Azure**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v0.2.0 (released 2023-03-27)  
-Last updated: 2023-04-02  
+Latest release: v0.3.0 (released 2023-04-05)  
+Last updated: 2023-04-05  
 Compatible with: Trails to Azure v1.1.11 (Steam or GOG)  
   
 Watch the release trailer here: Coming soon!  
@@ -24,8 +24,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **Wenzel (8/8)**
 *   **Lynn (9/9)**
 *   **Aeolia (11/11)**
-*   Pierre (0/8)
-*   Douglas (0/6)
+*   **Pierre (8/8)**
+*   **Douglas (5/5*)**
 *   **Seiland (6/6)**
 *   **Albert (6/6)**
 *   **Ines (2/2)**
@@ -34,6 +34,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Franz (6/6)**
 *   **[NEW!] Oscar (3/3)**
 *   **[NEW!] Bennet (2/2)**
+*   ??? (0/2)
+*   Note: Douglas wears a special outfit not present in Akatsuki no Kiseki for a few scenes in Azure. As such, he will not have portraits in those scenes, so as to not show him wearing the wrong outfit in his portraits.
 *   Note: Duvalie was previously included as part of Akatsuki Portraits in Azure. However, she has portraits by default as part of the NISA release of Azure. Because of this, the More Portraits in Azure mod does not include any changes to Duvalie.
 
 ## Gameplay screenshots
@@ -60,6 +62,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 
 ### Douglas
 ![gameplay_screenshot_douglas_01](/gameplay_screenshots/gameplay_screenshot_douglas_01.jpg)
+![gameplay_screenshot_douglas_02](/gameplay_screenshots/gameplay_screenshot_douglas_02.jpg)
 
 ### Seiland
 ![gameplay_screenshot_seiland_01](/gameplay_screenshots/gameplay_screenshot_seiland_01.jpg)
@@ -113,8 +116,11 @@ Read here: Coming soon!
 *   [Graber](https://twitter.com/AdrianGraber) for [the version of EDDecompiler](https://github.com/AGraber/EDDecompiler) used for developing this mod.
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
+*   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2023-04-05: Files for Pierre completed.
+*   2023-04-04: Files for Douglas completed.
 *   2023-04-02: Files for Seiland completed. Extra portrait and half-bust for Seiland added.
 *   2023-04-01: Files for Franz completed.
 *   2023-03-31: Files for Albert completed.
