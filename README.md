@@ -25,7 +25,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **Lynn (9/9)**
 *   **Aeolia (11/11)**
 *   **Pierre (8/8)**
-*   **Douglas (5/5*)**
+*   **Douglas (5/5\*)**
 *   **Seiland (6/6)**
 *   **Albert (6/6)**
 *   **Ines (2/2)**
