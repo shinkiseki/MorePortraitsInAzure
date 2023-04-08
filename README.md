@@ -12,7 +12,7 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 ## Installation instructions
 1.  Download the latest release of More Portraits in Azure. This should include, among other files, a data folder.
 2.  Identify the folder where the Steam (or GOG) edition of Trails to Azure lives. Within this folder, there should be, among other files, the game itself (ao.exe) and a data folder. This is the __root folder__ of the game.
-3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.
+3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.  
 3a. There is an option to also install improved versions of the vanilla portraits (see below for comparisons). These are in a separate folder called improved_vanilla_portraits. Within this folder is another data folder. Drag this data folder into the root folder. This will copy all the improved portraits into the root folder. Please note that this will replace the original portrait files.
 4.  The mod has now been installed! New portraits will now be shown in-game.
 5.  To uninstall the mod, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
