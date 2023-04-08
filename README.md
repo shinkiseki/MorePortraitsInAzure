@@ -6,7 +6,7 @@ Latest release: v1.0.0 (released 2023-04-08)
 Last updated: 2023-04-08  
 Compatible with: Trails to Azure v1.1.11 (Steam or GOG)  
   
-Watch the release trailer here: Coming soon!  
+Watch the release trailer here: https://www.youtube.com/watch?v=KxlKialbqZ4  
 Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortraitsInZero
 
 ## Installation instructions
