@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of Trails to Azure**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v0.3.0 (released 2023-04-05)  
-Last updated: 2023-04-05  
+Latest release: v1.0.0 (released 2023-04-08)  
+Last updated: 2023-04-08  
 Compatible with: Trails to Azure v1.1.11 (Steam or GOG)  
   
 Watch the release trailer here: Coming soon!  
@@ -129,6 +129,7 @@ Read here: Coming soon!
 *   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2023-04-08: Released v1.0.0. Option to update vanilla portraits added. Several bugs fixed, including missing portraits and incorrect text box locations.
 *   2023-04-05: Files for Pierre completed.
 *   2023-04-04: Files for Douglas completed.
 *   2023-04-02: Files for Seiland completed. Extra portrait and half-bust for Seiland added.
