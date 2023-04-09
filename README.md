@@ -1,5 +1,5 @@
 # More Portraits in Azure
-Adds more portraits (Akatsuki and completely new) in the **NISA Steam version of Trails to Azure**.
+Adds more portraits (Akatsuki and completely new) in the **NISA PC version of Trails to Azure**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.0.0 (released 2023-04-08)  
@@ -15,7 +15,7 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.
 4. (Optional) There is an option to also install improved versions of the vanilla portraits (see below for comparisons). These are in a separate folder called improved_vanilla_portraits. Within this folder is another data folder. Drag this data folder into the root folder. This will copy all the improved portraits into the root folder. Please note that this will replace the original portrait files.
 5.  The mod has now been installed! New portraits will now be shown in-game.
-6.  To uninstall the mod, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
+6.  To uninstall the mod on Steam, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
 
 ## List of added characters
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=t2iGFyWjqRI) of this mod are labeled as new.
