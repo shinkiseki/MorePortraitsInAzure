@@ -3,10 +3,10 @@ Adds more portraits (Akatsuki and completely new) in the **NISA PC version of Tr
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.0.0 (released 2023-04-08)  
-Last updated: 2023-04-08  
+Last updated: 2023-04-10  
 Compatible with: Trails to Azure v1.1.11 (Steam or GOG)  
   
-Watch the release trailer here: https://www.youtube.com/watch?v=KxlKialbqZ4  
+Watch the release trailer here: https://youtu.be/KxlKialbqZ4  
 Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortraitsInZero
 
 ## Installation instructions
@@ -36,6 +36,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Oscar (3/3)**
 *   **[NEW!] Bennet (2/2)**
 *   ??? (0/2)
+*   ??? (0/7)
 *   Note: Douglas wears a special outfit not present in Akatsuki no Kiseki for a few scenes in Azure. As such, he will not have portraits in those scenes, so as to not show him wearing the wrong outfit in his portraits.
 *   Note: Duvalie was previously included as part of Akatsuki Portraits in Azure. However, she has portraits by default as part of the NISA release of Azure. Because of this, the More Portraits in Azure mod does not include any changes to Duvalie.
 
@@ -119,7 +120,9 @@ For those using GitHub, please report these (or other) issues if they are discov
 Read here: Coming soon!
 
 ## Compatibility with other mods
-*   Coming soon!
+*   [Azure Vitality](https://github.com/Kyuuhachi/Azure-Vitality)
+    *   Compatible version released as of 2023-04-10. To use both mods, first install More Portraits in Azure, then install Azure Vitality.
+    *   This mod adds new quests that were originally included as part of Ao no Kiseki Evolution. See Azure Vitality's README for more info.
 	
 ## Credits
 *   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar and Bennet.
@@ -129,6 +132,7 @@ Read here: Coming soon!
 *   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2023-04-10: Updated README to note added compatibility with the Azure Vitality mod, which adds new quests originally included as part of Ao no Kiseki Evolution. No file changes within More Portraits in Azure itself.
 *   2023-04-08: Released v1.0.0. Option to update vanilla portraits added. Several bugs fixed, including missing portraits and incorrect text box locations.
 *   2023-04-05: Files for Pierre completed.
 *   2023-04-04: Files for Douglas completed.
