@@ -16,7 +16,9 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.
 4. (Optional) There is an option to also install improved versions of the vanilla portraits (see below for comparisons). These are in a separate folder called improved_vanilla_portraits. Within this folder is another data folder. Drag this data folder into the root folder. This will copy all the improved portraits into the root folder. Please note that this will replace the original portrait files.
 5.  The mod has now been installed! New portraits will now be shown in-game.　This will work for English and Japanese scripts! 英語も日本語もOKです！
-6.  To uninstall the mod on Steam, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
+6.  To uninstall the mod, verify integrity of game files. This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
+	*   On Steam, right-click the game in the Steam client, then select Properties -> Local Files -> Verify integrity of game files.
+	*   On GOG, click on the game in the GOG client, then select More -> Manage Installation -> Verify/Repair -> VERIFY GAME.
 
 ## List of added characters
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=t2iGFyWjqRI) of this mod are labeled as new.
@@ -134,6 +136,7 @@ Read here: Coming soon!
 *   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2023-04-14: Updated README to include uninstallation insstructions for GOG.
 *   2023-04-11: Released v1.1.0. Added support for JP text. Updated README to note added compatibility with the Azure Vitality mod, which adds new quests originally included as part of Ao no Kiseki Evolution. Several bugs fixed.
 *   2023-04-08: Released v1.0.0. Option to update vanilla portraits added. Several bugs fixed, including missing portraits and incorrect text box locations.
 *   2023-04-05: Files for Pierre completed.
