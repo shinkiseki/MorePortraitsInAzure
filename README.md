@@ -142,7 +142,7 @@ Read here: Coming soon!
 *   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
-*   2023-09-24: New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.4.18.
+*   2023-09-24: New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.1.18.
 *   2023-04-14: Updated README to include uninstallation instructions for GOG.
 *   2023-04-11: Released v1.1.0. Added support for JP text. Updated README to note added compatibility with the Azure Vitality mod, which adds new quests originally included as part of Ao no Kiseki Evolution. Several bugs fixed.
 *   2023-04-08: Released v1.0.0. Option to update vanilla portraits added. Several bugs fixed, including missing portraits and incorrect text box locations.
