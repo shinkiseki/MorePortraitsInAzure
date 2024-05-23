@@ -2,10 +2,9 @@
 Adds more portraits (Akatsuki and completely new) in the **NISA PC version of Trails to Azure**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.2.0 (released 2023-09-24)  
-Last updated: 2023-09-24  
+Latest release: v1.3.0 (released 2024-05-23)  
+Last updated: 2024-05-23  
 Compatible with: Trails to Azure v1.1.18 (Steam or GOG), EN + JP (英語＋日本語)  
-日本語の説明：　少々お待ち下さい！
   
 Watch the release trailer here: https://youtu.be/KxlKialbqZ4  
 Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortraitsInZero
@@ -15,7 +14,7 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 2.  Identify the folder where the Steam (or GOG) edition of Trails to Azure lives. Within this folder, there should be, among other files, the game itself (ao.exe) and a data folder. This is the __root folder__ of the game.
 3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.
 4. (Optional) There is an option to also install improved versions of the vanilla portraits (see below for comparisons). These are in a separate download called Improved Vanilla Portraits. In this release is another data folder. Drag this data folder into the root folder. This will copy all the improved portraits into the root folder. Please note that this will replace the original portrait files.
-5.  The mod has now been installed! New portraits will now be shown in-game.　This will work for English and Japanese scripts! 英語も日本語もOKです！
+5.  The mod has now been installed! New portraits will now be shown in-game. This will work for English and Japanese scripts! 英語も日本語もOKです！
 6.  To uninstall the mod, verify integrity of game files. This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
 	*   On Steam, right-click the game in the Steam client, then select Properties -> Local Files -> Verify integrity of game files.
 	*   On GOG, click on the game in the GOG client, then select More -> Manage Installation -> Verify/Repair -> VERIFY GAME.
@@ -40,6 +39,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Bennet (2/2)**
 *   **[NEW!] Shanshan (2/2)**
 *   **[NEW!] Kate (8/8)**
+*   **[NEW!] Ashleigh (3/3)**
+*   **[NEW!] Jingo (3/3)**
 *   Note: Douglas wears a special outfit not present in Akatsuki no Kiseki for a few scenes in Azure. As such, he will not have portraits in those scenes, so as to not show him wearing the wrong outfit in his portraits.
 *   Note: Duvalie was previously included as part of Akatsuki Portraits in Azure. However, she has portraits by default as part of the NISA release of Azure. Because of this, the More Portraits in Azure mod does not include any changes to Duvalie.
 
@@ -105,6 +106,12 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ### Kate
 ![gameplay_screenshot_kate_01](/gameplay_screenshots/gameplay_screenshot_kate_01.jpg)
 
+### Ashleigh
+![gameplay_screenshot_ashleigh_01](/gameplay_screenshots/gameplay_screenshot_ashleigh_01.jpg)
+
+### Jingo
+![gameplay_screenshot_jingo_01](/gameplay_screenshots/gameplay_screenshot_jingo_01.jpg)
+
 ### Improved Vanilla Portraits
 ![gameplay_screenshot_improved_vanilla_portraits_01](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_01.jpg)
 ![gameplay_screenshot_improved_vanilla_portraits_02](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_02.jpg)
@@ -126,23 +133,21 @@ For those using GitHub, please report these (or other) issues if they are discov
 *   **[Non-text box bug]** While unlikely, it's possible that the mod introduces some game-impacting bug.
 *   **[Misc.]** There's probably something I've forgotten to list--let me know and I'll sort it out.
 
-## The creation process
-Read here: Coming soon!
-
 ## Compatibility with other mods
 *   [Azure Vitality](https://github.com/Kyuuhachi/Azure-Vitality)
     *   Compatible version released as of 2023-04-10. To use both mods, first install More Portraits in Azure, then install Azure Vitality.
     *   This mod adds new quests that were originally included as part of Ao no Kiseki Evolution. See Azure Vitality's README for more info.
 	
 ## Credits
-*   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar, Bennet, Shanshan, and Kate.
+*   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar, Bennet, Shanshan, Kate, Ashleigh, and Jingo.
 *   [Graber](https://twitter.com/AdrianGraber) for [the version of EDDecompiler](https://github.com/AGraber/EDDecompiler) used for developing this mod.
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, the development of the JP script version of the mod, and the development of a compatible version of the Azure Vitality mod.
 *   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
-*   2023-09-24: New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.1.18.
+*   2024-05-23: Released v1.3.0. New characters #7 and #8 revealed (Ashleigh and Jingo). Files for Ashleigh and Jingo completed.
+*   2023-09-24: Released v1.2.0. New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.1.18.
 *   2023-04-14: Updated README to include uninstallation instructions for GOG.
 *   2023-04-11: Released v1.1.0. Added support for JP text. Updated README to note added compatibility with the Azure Vitality mod, which adds new quests originally included as part of Ao no Kiseki Evolution. Several bugs fixed.
 *   2023-04-08: Released v1.0.0. Option to update vanilla portraits added. Several bugs fixed, including missing portraits and incorrect text box locations.
