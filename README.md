@@ -3,8 +3,8 @@ Adds more portraits (Akatsuki and completely new) in the **NISA PC version of Tr
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.3.0 (released 2024-05-23)  
-Last updated: 2024-05-23  
-Compatible with: Trails to Azure v1.1.18 (Steam or GOG), EN + JP (英語＋日本語)  
+Last updated: 2024-12-31  
+Compatible with: Trails to Azure v1.1.19 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/KxlKialbqZ4  
 Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortraitsInZero
@@ -146,6 +146,7 @@ For those using GitHub, please report these (or other) issues if they are discov
 *   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2024-12-31: No release -- verified compatibility with new patch v1.4.19.
 *   2024-05-23: Released v1.3.0. New characters #7 and #8 revealed (Ashleigh and Jingo). Files for Ashleigh and Jingo completed.
 *   2023-09-24: Released v1.2.0. New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.1.18.
 *   2023-04-14: Updated README to include uninstallation instructions for GOG.
