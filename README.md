@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki and completely new) in the **NISA PC version of Tr
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.3.0 (released 2024-05-23)  
-Last updated: 2024-12-31  
+Last updated: 2025-05-25  
 Compatible with: Trails to Azure v1.1.19 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/KxlKialbqZ4  
@@ -13,7 +13,9 @@ Link to the More Portraits in Zero mod: https://github.com/shinkiseki/MorePortra
 1.  Download the latest release of More Portraits in Azure. This should include a data folder.
 2.  Identify the folder where the Steam (or GOG) edition of Trails to Azure lives. Within this folder, there should be, among other files, the game itself (zero.exe) and a data folder. This can be done by right-clicking on the game in the Steam library, then selecting Manage → Browse local files. This is the __root folder__ of the game.  
 	*   For Steam Deck users, use Desktop mode to browse local files. 
+	*   For modded Nintendo Switch users, the root folder will be in the SD card slot's folder, under atmosphere\contents\[game id].  
 3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that there will be a prompt to replace some of the original scena (scenario) files.
+	*   For modded Nintendo Switch users, the mod's data folder needs to be renamed as romfs before being dragged into the root folder. 
 4. (Optional) There is an option to also install improved versions of the vanilla portraits (see below for comparisons). These are in a separate download called Improved Vanilla Portraits. In this release is another data folder. Drag this data folder into the root folder. This will copy all the improved portraits into the root folder. Please note that this will replace the original portrait files.
 5.  The mod has now been installed! New portraits will now be shown in-game. This will work for English and Japanese scripts! 英語も日本語もOKです！
 6.  To uninstall the mod, verify integrity of game files. This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
@@ -147,6 +149,7 @@ For those using GitHub, please report these (or other) issues if they are discov
 *   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2025-05-25: Updated README to include installation instructions for a modded Nintendo Switch.
 *   2024-12-31: No release -- verified compatibility with new patch v1.4.19. Added instructions for using the mod with a Steam Deck.
 *   2024-05-23: Released v1.3.0. New characters #7 and #8 revealed (Ashleigh and Jingo). Files for Ashleigh and Jingo completed.
 *   2023-09-24: Released v1.2.0. New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.1.18.
