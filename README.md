@@ -44,7 +44,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Kate (8/8)**
 *   **[NEW!] Ashleigh (3/3)**
 *   **[NEW!] Jingo (3/3)**
-*   **[NEW!] Roy (2/5)**
+*   **[NEW!] Roy (3/5)**
 *   **[NEW!] Meiling (3/3)**
 *   **[NEW!] Donovan (0/8)**
 *   **[NEW!] Raymond (0/10)**
