@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki and completely new) in the **NISA PC version of Tr
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.3.0 (released 2024-05-23)  
-Last updated: 2025-11-01 
+Last updated: 2025-11-06 
 Compatible with: Trails to Azure v1.1.19 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/KxlKialbqZ4  
@@ -44,7 +44,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Kate (8/8)**
 *   **[NEW!] Ashleigh (3/3)**
 *   **[NEW!] Jingo (3/3)**
-*   **[NEW!] Roy (3/5)**
+*   **[NEW!] Roy (5/5)**
 *   **[NEW!] Meiling (3/3)**
 *   **[NEW!] Donovan (0/8)**
 *   **[NEW!] Raymond (0/10)**
