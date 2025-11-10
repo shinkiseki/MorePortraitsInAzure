@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki and completely new) in the **NISA PC version of Tr
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.4.0 (released 2025-11-10)  
-Last updated: 2025-11-10 
+Last updated: 2025-11-10  
 Compatible with: Trails to Azure v1.1.19 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/KxlKialbqZ4  
