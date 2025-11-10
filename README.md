@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki and completely new) in the **NISA PC version of Trails to Azure**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.3.0 (released 2024-05-23)  
-Last updated: 2025-11-06 
+Latest release: v1.4.0 (released 2025-11-10)  
+Last updated: 2025-11-10 
 Compatible with: Trails to Azure v1.1.19 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/KxlKialbqZ4  
@@ -46,8 +46,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Jingo (3/3)**
 *   **[NEW!] Roy (5/5)**
 *   **[NEW!] Meiling (3/3)**
-*   **[NEW!] Donovan (0/8)**
-*   **[NEW!] Raymond (0/10)**
+*   **[NEW!] ??? (0/8)**
+*   **[NEW!] ??? (0/10)**
 *   Note: Douglas wears a special outfit not present in Akatsuki no Kiseki for a few scenes in Azure. As such, he will not have portraits in those scenes, so as to not show him wearing the wrong outfit in his portraits.
 *   Note: Duvalie was previously included as part of Akatsuki Portraits in Azure. However, she has portraits by default as part of the NISA release of Azure. Because of this, the More Portraits in Azure mod does not include any changes to Duvalie.
 
@@ -125,12 +125,6 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ### Meiling
 ![gameplay_screenshot_meiling_01](/gameplay_screenshots/gameplay_screenshot_meiling_01.jpg)
 
-### Donovan
-![gameplay_screenshot_donovan_01](/gameplay_screenshots/gameplay_screenshot_donovan_01.jpg)
-
-### Raymond
-![gameplay_screenshot_raymond_01](/gameplay_screenshots/gameplay_screenshot_raymond_01.jpg)
-
 ### Improved Vanilla Portraits
 ![gameplay_screenshot_improved_vanilla_portraits_01](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_01.jpg)
 ![gameplay_screenshot_improved_vanilla_portraits_02](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_02.jpg)
@@ -165,7 +159,7 @@ For those using GitHub, please report these (or other) issues if they are discov
 *   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
-*   TO DO: Add v1.4.0 for Roy and Meiling.
+*   2025-11-10: Released v1.4.0. New characters #9 and #10 revealed (Roy and Meiling). Files for Roy and Meiling completed.
 *   2025-05-25: Updated README to include installation instructions for a modded Nintendo Switch.
 *   2024-12-31: No release -- verified compatibility with new patch v1.4.19. Added instructions for using the mod with a Steam Deck.
 *   2024-05-23: Released v1.3.0. New characters #7 and #8 revealed (Ashleigh and Jingo). Files for Ashleigh and Jingo completed.
