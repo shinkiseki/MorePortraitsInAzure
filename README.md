@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki and completely new) in the **NISA PC version of Trails to Azure**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.4.2 (released 2025-12-09)  
-Last updated: 2025-12-09  
+Latest release: v1.4.3 (released 2025-12-16)  
+Last updated: 2025-12-16  
 Compatible with: Trails to Azure v1.1.19 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/KxlKialbqZ4  
@@ -159,6 +159,7 @@ For those using GitHub, please report these (or other) issues if they are discov
 *   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2025-12-16: Released v1.4.3. Fixed a disappearing Lloyd in c1540 (Orchis Tower).
 *   2025-12-09: Released v1.4.2. Missing portrait for Roy in c1200 (East Street) added.
 *   2025-11-27: Released v1.4.1. Missing file for Roy (c1050 - Business Owner's Association) added.
 *   2025-11-10: Released v1.4.0. New characters #9 and #10 revealed (Roy and Meiling). Files for Roy and Meiling completed.
