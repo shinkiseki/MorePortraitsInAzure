@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki and completely new) in the **NISA PC version of Trails to Azure**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.4.5 (released 2026-01-08)  
-Last updated: 2026-01-08  
+Latest release: v1.4.6 (released 2026-03-12)  
+Last updated: 2026-03-12  
 Compatible with: Trails to Azure v1.1.19 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/KxlKialbqZ4  
@@ -159,6 +159,7 @@ For those using GitHub, please report these (or other) issues if they are discov
 *   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2026-03-12: Released v1.4.6. Fixed an issue with a text box in the JP version of c1440 (Neinvalli).
 *   2026-01-08: Released v1.4.5. Missing portraits for Shanshan in c1030 (Long Lao) added.
 *   2025-12-21: Released v1.4.4. Missing portrait for Pierre in c153b (Orchis Tower - 34F) added.
 *   2025-12-16: Released v1.4.3. Fixed a disappearing Lloyd in c1540 (Orchis Tower).
